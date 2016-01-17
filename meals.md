@@ -1,5 +1,5 @@
 ## daily meals
 ### my daily meals
-*breakfast
-*lunch
-*super
+* breakfast
+* lunch
+* super
